@@ -4,8 +4,10 @@
 
 ## How to run:
 
-`docker build -t epochtime:latest .`
-`docker run -itd -p 8080:8080 epochtime:latest`
+`docker build -t epochtime:latest .` 
+
+
+`docker run -itd -p 8080:8080 epochtime:latest`  
 
 ```
 import requests
